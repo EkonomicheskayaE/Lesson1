@@ -1,6 +1,6 @@
 ﻿int numberA, numberB;
-numberA = 125;
-numberB = 700;
+numberA = 5;
+numberB = 7;
 if (numberA > numberB)
 {
     Console.Write(numberA);
